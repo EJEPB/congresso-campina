@@ -1,5 +1,5 @@
 # congresso-campina
-Relação de providências necessárias para a realização do Congresso Brasileiro de Direito Constitucional Eleitoral em Campina Grande/PB.
+Relação de providências necessárias para a realização do **Congresso Brasileiro de Direito Constitucional Eleitoral** em Campina Grande/PB.
 
 1. Criação do Processo no SEI contendo o projeto;
 2. Definição dos palestrantes e do cronograma do evento;
